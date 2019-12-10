@@ -11,7 +11,7 @@ const HeaderComponent = () => {
     <Nav className="mr-auto">
       <Nav.Link href="/">Register</Nav.Link>
       <Nav.Link href="/login">Login</Nav.Link>
-      <Nav.Link href="/posts">River Systems</Nav.Link>
+      <Nav.Link href="/rivers">River Systems</Nav.Link>
     </Nav>
     <Nav>
       <Nav.Link href="/about">About Riverway</Nav.Link>
