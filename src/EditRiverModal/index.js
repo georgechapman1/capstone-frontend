@@ -35,7 +35,7 @@ const EditRiverModal = (props) => {
           <Label>
            Median Flow:
           </Label>
-          <Form.Input type='text' name='lr_median_flow ' value={props.riverToEdit.lr_median_flow } onChange={props.handleEditChange}/>
+          <Form.Input type='text' name='lt_median_flow ' value={props.riverToEdit.lt_median_flow } onChange={props.handleEditChange}/>
           <Modal.Actions>
             <Button color='green' type='submit'>Edit River</Button>
           </Modal.Actions>
