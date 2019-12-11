@@ -7,11 +7,11 @@ import {Navbar, Nav } from 'react-bootstrap';
 const HeaderComponent = () => {
   return (
     <Navbar bg="dark" variant="dark">
-    <Navbar.Brand href="/posts">Riverway</Navbar.Brand>
+    <Navbar.Brand href="/rivers">Riverway</Navbar.Brand>
     <Nav className="mr-auto">
       <Nav.Link href="/">Register</Nav.Link>
       <Nav.Link href="/login">Login</Nav.Link>
-      <Nav.Link href="/rivers">River Systems</Nav.Link>
+      <Nav.Link href="/favorite">Favorite Rivers</Nav.Link>
     </Nav>
     <Nav>
       <Nav.Link href="/about">About Riverway</Nav.Link>
