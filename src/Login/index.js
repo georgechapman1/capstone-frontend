@@ -37,7 +37,7 @@ class Login extends Component {
     if (parsedResponse.status.code === 200) {
       console.log(parsedResponse)
       console.log('login successful');
-      this.props.history.push('/posts'); // Change url to /dogs programmatically with react-router
+      this.props.history.push('/rivers'); // Change url to /dogs programmatically with react-router
     } else {
       // Else display error message to the user
       this.setState({
