@@ -13,7 +13,7 @@ import RiverSystemContainer from './RiverSystemContainer'
 const My404 = () => {
   return (
     <div>
-      <h3>You are lost</h3>
+      <h3>Are you a happy hydrologist?</h3>
     </div>
   )
  }
