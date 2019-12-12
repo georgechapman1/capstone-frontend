@@ -1,3 +1,50 @@
+An app for hydrologists who work the colorado waterways to moniter water flows of rivers at various stations set up.  This app will provide them a platform to take their data recordings and share with their local team.  As water becomes more strained in CA, this app will reduce bottlenecks and increase productivity in the workforce. Through these efficiencies, we can help combat wildfires.
+
+My users require an app they can use to record their data and communicate data across teams.  They want this so they don't have to use pen and paper and can be informed on where their data stands.  
+
+Future Features:
+1) Plug in weather API so hydrologists can stay safe when in the mountainss
+2) Allow users to comment and provide pictures or information of their day.
+3) Flood/Fire alerts
+
+------------------------------------------------------------------------------
+<HEADER>
+RIVERWAY LOGIN REGISTER
+
+----RIVER SYSTEMS------
+RIVER SYSTEM, STATION NAME
+time of reading, gauge height, discharge, mean flow, median flow
+*EDIT* *DELETE*
+etc
+etc
+etc
+------------------------------------------------------------------------------
+
+
+Heroku Link: https://happy-hydro-react.herokuapp.com/posts
+
+Technologies used: Python, Peewee, Flask, SQL, Javascript, React, CSS, github, heroku
+
+To Run my app locally:
+Default install steps for React & Express are npm install and npm start
+Default install steps for Flask are pip install -r requirements.txt and python app.py
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
